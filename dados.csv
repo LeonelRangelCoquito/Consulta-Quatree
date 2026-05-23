@@ -1,0 +1,150 @@
+Linha,Categoria,Produto,Sabor,Peso,Preco_Atual,Preco_5OFF,Desconto_Percent,Preco_por_kg,Ean_Cor
+Quatree Supreme,Cão,Cão Adulto RMG,"Frango com batata-doce, brócolis e maçã",15kg,275.50,262.00,4.9,17.47,#F57C00
+Quatree Supreme,Cão,Cão Adulto RMG,"Frango com batata-doce, brócolis e maçã",20kg,355.90,338.50,4.9,16.93,#F57C00
+Quatree Supreme,Cão,Cão Adulto RMG,"Frango com batata-doce, brócolis e maçã",Granel,18.90,18.00,4.8,18.00,#F57C00
+Quatree Supreme,Cão,Cão Adulto RP,"Frango com batata-doce, brócolis e maçã",1kg,36.90,35.50,3.8,35.50,#1976D2
+Quatree Supreme,Cão,Cão Adulto RP,"Frango com batata-doce, brócolis e maçã",2.5kg,84.90,81.00,4.6,32.40,#1976D2
+Quatree Supreme,Cão,Cão Adulto RP,"Frango com batata-doce, brócolis e maçã",10.1kg,199.90,190.00,5.0,18.81,#1976D2
+Quatree Supreme,Cão,Cão Adulto RP,"Frango com batata-doce, brócolis e maçã",15kg,280.50,267.00,4.8,17.80,#1976D2
+Quatree Supreme,Cão,Cão Adulto RP,"Frango com batata-doce, brócolis e maçã",Granel,19.90,19.00,4.5,19.00,#1976D2
+Quatree Supreme,Cão,Cão Filhote RMG,"Frango com batata-doce, brócolis e maçã",10.1kg,196.90,187.50,4.8,18.56,#7CB342
+Quatree Supreme,Cão,Cão Filhote RMG,"Frango com batata-doce, brócolis e maçã",15kg,296.90,282.50,4.9,18.83,#7CB342
+Quatree Supreme,Cão,Cão Filhote RMG,"Frango com batata-doce, brócolis e maçã",Granel,19.90,19.00,4.5,19.00,#7CB342
+Quatree Supreme,Cão,Cão Filhote RP,"Frango com batata-doce, brócolis e maçã",1kg,38.40,36.50,5.0,36.50,#00ACC1
+Quatree Supreme,Cão,Cão Filhote RP,"Frango com batata-doce, brócolis e maçã",2.5kg,86.90,82.50,5.1,33.00,#00ACC1
+Quatree Supreme,Cão,Cão Filhote RP,"Frango com batata-doce, brócolis e maçã",10.1kg,204.90,195.00,4.8,19.31,#00ACC1
+Quatree Supreme,Cão,Cão Filhote RP,"Frango com batata-doce, brócolis e maçã",15kg,292.90,278.50,4.9,18.57,#00ACC1
+Quatree Supreme,Cão,Cão Filhote RP,"Frango com batata-doce, brócolis e maçã",Granel,19.90,19.00,4.5,19.00,#00ACC1
+Quatree Supreme,Cão,Cão Sênior +7 RMG,"Cordeiro e frango com linhaça e chá verde",15kg,288.90,274.50,5.0,18.30,#388E3C
+Quatree Supreme,Cão,Cão Sênior +7 RMG,"Cordeiro e frango com linhaça e chá verde",Granel,19.90,19.00,4.5,19.00,#388E3C
+Quatree Supreme,Cão,Cão Sênior +7 RP,"Cordeiro e frango com linhaça e chá verde",1kg,39.50,37.50,5.1,37.50,#757575
+Quatree Supreme,Cão,Cão Sênior +7 RP,"Cordeiro e frango com linhaça e chá verde",2.5kg,89.90,85.50,4.9,34.20,#757575
+Quatree Supreme,Cão,Cão Sênior +7 RP,"Cordeiro e frango com linhaça e chá verde",10.1kg,211.00,200.50,5.0,19.85,#757575
+Quatree Supreme,Cão,Cão Sênior +7 RP,"Cordeiro e frango com linhaça e chá verde",Granel,21.90,21.00,4.1,21.00,#757575
+Quatree Supreme,Cão,Cão Dermasense RMG,"Cordeiro e salmão com mandioca e maçã",15kg,328.90,312.50,5.0,20.83,#D32F2F
+Quatree Supreme,Cão,Cão Dermasense RMG,"Cordeiro e salmão com mandioca e maçã",Granel,22.90,22.00,3.9,22.00,#D32F2F
+Quatree Supreme,Cão,Cão Dermasense RP,"Cordeiro e salmão com mandioca e maçã",2.5kg,106.90,101.50,5.1,40.60,#7B1FA2
+Quatree Supreme,Cão,Cão Dermasense RP,"Cordeiro e salmão com mandioca e maçã",10.1kg,234.90,223.50,4.9,22.13,#7B1FA2
+Quatree Supreme,Cão,Cão Dermasense RP,"Cordeiro e salmão com mandioca e maçã",Granel,24.90,24.00,3.6,24.00,#7B1FA2
+Quatree Supreme,Cão,Cão Light Castrado RMG,"Frango e salmão com brócolis e batata-doce",15kg,299.90,285.00,5.0,19.00,#7B1FA2
+Quatree Supreme,Cão,Cão Light Castrado RMG,"Frango e salmão com brócolis e batata-doce",Granel,20.90,20.00,4.3,20.00,#7B1FA2
+Quatree Supreme,Cão,Cão Light Castrado RP,"Frango e salmão com brócolis e batata-doce",2.5kg,86.90,82.50,5.1,33.00,#FBC02D
+Quatree Supreme,Cão,Cão Light Castrado RP,"Frango e salmão com brócolis e batata-doce",10.1kg,216.90,206.50,4.8,20.45,#FBC02D
+Quatree Supreme,Cão,Cão Light Castrado RP,"Frango e salmão com brócolis e batata-doce",Granel,21.90,21.00,4.1,21.00,#FBC02D
+Quatree Supreme,Gato,Gato Adulto,"Salmão com batata-doce, brócolis e maçã",2.5kg,80.90,77.00,4.8,30.80,#E91E63
+Quatree Supreme,Gato,Gato Adulto,"Salmão com batata-doce, brócolis e maçã",10.1kg,238.90,227.00,5.0,22.48,#E91E63
+Quatree Supreme,Gato,Gato Adulto,"Salmão com batata-doce, brócolis e maçã",15kg,313.90,298.50,4.9,19.90,#E91E63
+Quatree Supreme,Gato,Gato Adulto,"Salmão com batata-doce, brócolis e maçã",Granel,24.90,24.00,3.6,24.00,#E91E63
+Quatree Supreme,Gato,Gato Filhote,"Salmão com batata-doce, brócolis e maçã",10.1kg,243.90,232.00,4.9,22.97,#009688
+Quatree Supreme,Gato,Gato Filhote,"Salmão com batata-doce, brócolis e maçã",Granel,26.90,26.00,3.4,26.00,#009688
+Quatree Supreme,Gato,Gato Castrado Frango,"Frango com batata-doce, brócolis e maçã",2.5kg,86.90,82.50,5.1,33.00,#FBC02D
+Quatree Supreme,Gato,Gato Castrado Frango,"Frango com batata-doce, brócolis e maçã",10.1kg,240.90,229.00,4.9,22.67,#FBC02D
+Quatree Supreme,Gato,Gato Castrado Frango,"Frango com batata-doce, brócolis e maçã",15kg,321.90,306.00,4.9,20.40,#FBC02D
+Quatree Supreme,Gato,Gato Castrado Frango,"Frango com batata-doce, brócolis e maçã",Granel,25.90,25.00,3.5,25.00,#FBC02D
+Quatree Supreme,Gato,Gato Castrado Salmão,"Salmão com batata-doce, brócolis e maçã",2.5kg,86.90,82.50,5.1,33.00,#E91E63
+Quatree Supreme,Gato,Gato Castrado Salmão,"Salmão com batata-doce, brócolis e maçã",10.1kg,240.90,229.00,4.9,22.67,#E91E63
+Quatree Supreme,Gato,Gato Castrado Salmão,"Salmão com batata-doce, brócolis e maçã",15kg,321.90,306.00,4.9,20.40,#E91E63
+Quatree Supreme,Gato,Gato Castrado Salmão,"Salmão com batata-doce, brócolis e maçã",Granel,25.90,25.00,3.5,25.00,#E91E63
+Quatree Supreme,Gato,Gato Sênior +7,"Salmão e frango com linhaça e chá verde",10.1kg,253.90,241.50,4.9,23.91,#03A9F4
+Quatree Supreme,Gato,Gato Sênior +7,"Salmão e frango com linhaça e chá verde",Granel,27.90,26.50,5.0,26.50,#03A9F4
+Quatree Supreme,Sachê,Sachê Cão Carne,Carne,100g,3.90,3.75,3.9,37.50,#F57C00
+Quatree Supreme,Sachê,Sachê Cão Cordeiro,Cordeiro,100g,3.90,3.75,3.9,37.50,#388E3C
+Quatree Supreme,Sachê,Sachê Cão Frango,Frango,100g,3.90,3.75,3.9,37.50,#E91E63
+Quatree Supreme,Sachê,Sachê Gato Carne,Carne,100g,3.90,3.75,3.9,37.50,#F57C00
+Quatree Supreme,Sachê,Sachê Gato Frango,Frango,100g,3.90,3.75,3.9,37.50,#E91E63
+Quatree Supreme,Sachê,Sachê Gato Peixe,Peixe,100g,3.90,3.75,3.9,37.50,#03A9F4
+Quatree Life,Cão,Cão Adulto RMG,Frango e Arroz,15kg,218.90,207.96,5.0,13.86,#4A7C4E
+Quatree Life,Cão,Cão Adulto RMG,Frango e Arroz,20kg,283.90,269.71,5.0,13.49,#4A7C4E
+Quatree Life,Cão,Cão Adulto RMG,Frango e Arroz,Granel,14.90,14.16,5.0,14.16,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,1kg,28.50,27.08,5.0,27.08,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,3kg,76.90,73.06,5.0,24.35,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,10.1kg,154.90,147.16,5.0,14.57,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,15kg,222.90,211.76,5.0,14.12,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,20kg,289.90,275.41,5.0,13.77,#4A7C4E
+Quatree Life,Cão,Cão Adulto RP,Frango e Arroz,Granel,15.90,15.11,5.0,15.11,#4A7C4E
+Quatree Life,Cão,Cão Filhote RMG,Frango e Arroz,3kg,75.60,71.82,5.0,23.94,#4A7C4E
+Quatree Life,Cão,Cão Filhote RMG,Frango e Arroz,15kg,232.00,220.40,5.0,14.69,#4A7C4E
+Quatree Life,Cão,Cão Filhote RMG,Frango e Arroz,20kg,302.20,287.09,5.0,14.35,#4A7C4E
+Quatree Life,Cão,Cão Filhote RMG,Frango e Arroz,Granel,15.50,14.73,5.0,14.73,#4A7C4E
+Quatree Life,Cão,Cão Filhote RP,Frango e Arroz,1kg,30.50,28.98,5.0,28.98,#4A7C4E
+Quatree Life,Cão,Cão Filhote RP,Frango e Arroz,3kg,79.90,75.91,5.0,25.30,#4A7C4E
+Quatree Life,Cão,Cão Filhote RP,Frango e Arroz,10.1kg,161.00,152.95,5.0,15.14,#4A7C4E
+Quatree Life,Cão,Cão Filhote RP,Frango e Arroz,20kg,309.90,294.41,5.0,14.72,#4A7C4E
+Quatree Life,Cão,Cão Filhote RP,Frango e Arroz,Granel,16.50,15.68,5.0,15.68,#4A7C4E
+Quatree Life,Gato,Gato Adulto,Salmão e Arroz,1kg,33.50,31.83,5.0,31.83,#4A7C4E
+Quatree Life,Gato,Gato Adulto,Salmão e Arroz,3kg,89.90,85.41,5.0,28.47,#4A7C4E
+Quatree Life,Gato,Gato Adulto,Salmão e Arroz,10.1kg,191.90,182.31,5.0,18.05,#4A7C4E
+Quatree Life,Gato,Gato Adulto,Salmão e Arroz,20kg,367.50,349.13,5.0,17.46,#4A7C4E
+Quatree Life,Gato,Gato Adulto,Salmão e Arroz,Granel,19.90,18.91,5.0,18.91,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Salmão e Arroz,1kg,34.50,32.78,5.0,32.78,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Salmão e Arroz,3kg,93.90,89.21,5.0,29.74,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Salmão e Arroz,10.1kg,205.90,195.61,5.0,19.37,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Salmão e Arroz,20kg,392.90,373.26,5.0,18.66,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Salmão e Arroz,Granel,20.90,19.86,5.0,19.86,#4A7C4E
+Quatree Life,Gato,Gato Filhote,Salmão e Arroz,1kg,36.90,35.06,5.0,35.06,#4A7C4E
+Quatree Life,Gato,Gato Filhote,Salmão e Arroz,10.1kg,208.90,198.46,5.0,19.65,#4A7C4E
+Quatree Life,Gato,Gato Filhote,Salmão e Arroz,Granel,21.90,20.81,5.0,20.81,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Frango e Arroz,1kg,34.50,32.78,5.0,32.78,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Frango e Arroz,3kg,93.90,89.21,5.0,29.74,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Frango e Arroz,10.1kg,205.90,195.61,5.0,19.37,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Frango e Arroz,20kg,392.90,373.26,5.0,18.66,#4A7C4E
+Quatree Life,Gato,Gato Castrado,Frango e Arroz,Granel,20.90,19.86,5.0,19.86,#4A7C4E
+Quatree Select,Cão,Cão Adulto RP Sênior +7,"Frango com Batata-Doce e Arroz",1kg,25.90,24.61,5.0,24.61,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Sênior +7,"Frango com Batata-Doce e Arroz",3kg,70.50,66.98,5.0,22.33,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Sênior +7,"Frango com Batata-Doce e Arroz",10.1kg,143.90,136.71,5.0,13.54,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Sênior +7,"Frango com Batata-Doce e Arroz",15kg,205.50,195.23,5.0,13.02,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Sênior +7,"Frango com Batata-Doce e Arroz",Granel,14.90,14.16,5.0,14.16,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",1kg,24.60,23.37,5.0,23.37,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",3kg,69.90,66.41,5.0,22.14,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",10.1kg,125.90,119.61,5.0,11.84,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",15kg,181.90,172.81,5.0,11.52,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",20kg,232.90,221.26,5.0,11.06,#8B6F47
+Quatree Select,Cão,Cão Adulto RP,"Frango com Batata-Doce e Arroz",Granel,12.90,12.26,5.0,12.26,#8B6F47
+Quatree Select,Cão,Cão Filhote RMG,"Frango com Batata-Doce e Arroz",3kg,67.50,64.13,5.0,21.38,#8B6F47
+Quatree Select,Cão,Cão Filhote RMG,"Frango com Batata-Doce e Arroz",15kg,188.90,179.46,5.0,11.96,#8B6F47
+Quatree Select,Cão,Cão Filhote RMG,"Frango com Batata-Doce e Arroz",20kg,245.90,233.61,5.0,11.68,#8B6F47
+Quatree Select,Cão,Cão Filhote RMG,"Frango com Batata-Doce e Arroz",Granel,12.90,12.26,5.0,12.26,#8B6F47
+Quatree Select,Cão,Cão Filhote RP,"Frango com Batata-Doce e Arroz",1kg,26.90,25.56,5.0,25.56,#8B6F47
+Quatree Select,Cão,Cão Filhote RP,"Frango com Batata-Doce e Arroz",3kg,73.90,70.21,5.0,23.40,#8B6F47
+Quatree Select,Cão,Cão Filhote RP,"Frango com Batata-Doce e Arroz",10.1kg,139.90,132.91,5.0,13.16,#8B6F47
+Quatree Select,Cão,Cão Filhote RP,"Frango com Batata-Doce e Arroz",20kg,263.90,250.71,5.0,12.54,#8B6F47
+Quatree Select,Cão,Cão Filhote RP,"Frango com Batata-Doce e Arroz",Granel,13.90,13.21,5.0,13.21,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG Sênior +7,"Frango com Batata-Doce e Arroz",15kg,205.90,195.61,5.0,13.04,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG Sênior +7,"Frango com Batata-Doce e Arroz",Granel,14.90,14.16,5.0,14.16,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG,"Frango com Batata-Doce e Arroz",15kg,181.90,172.81,5.0,11.52,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG,"Frango com Batata-Doce e Arroz",20kg,232.90,221.26,5.0,11.06,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG,"Frango com Batata-Doce e Arroz",Granel,12.90,12.26,5.0,12.26,#8B6F47
+Quatree Select,Cão,Cão Adulto Power RMG,"Frango com Batata-Doce e Arroz",15kg,209.90,199.41,5.0,13.29,#8B6F47
+Quatree Select,Cão,Cão Adulto Power RMG,"Frango com Batata-Doce e Arroz",Granel,15.90,15.11,5.0,15.11,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG Carne,"Carne com Batata-Doce e Arroz",15kg,181.90,172.81,5.0,11.52,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG Carne,"Carne com Batata-Doce e Arroz",20kg,232.90,221.26,5.0,11.06,#8B6F47
+Quatree Select,Cão,Cão Adulto RMG Carne,"Carne com Batata-Doce e Arroz",Granel,12.90,12.26,5.0,12.26,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",1kg,24.60,23.37,5.0,23.37,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",3kg,69.90,66.41,5.0,22.14,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",10.1kg,125.90,119.61,5.0,11.84,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",15kg,181.90,172.81,5.0,11.52,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",20kg,232.90,221.26,5.0,11.06,#8B6F47
+Quatree Select,Cão,Cão Adulto RP Carne,"Carne com Batata-Doce e Arroz",Granel,12.90,12.26,5.0,12.26,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Carne,"Carne com Batata-Doce e Arroz",1kg,30.90,29.36,5.0,29.36,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Carne,"Carne com Batata-Doce e Arroz",3kg,85.00,80.75,5.0,26.92,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Carne,"Carne com Batata-Doce e Arroz",10.1kg,180.50,171.48,5.0,16.98,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Carne,"Carne com Batata-Doce e Arroz",20kg,336.90,320.06,5.0,16.00,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Carne,"Carne com Batata-Doce e Arroz",Granel,17.90,17.01,5.0,17.01,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Mix de Carnes,"Mix de carnes com Batata-Doce e Arroz",1kg,34.30,32.59,5.0,32.59,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Mix de Carnes,"Mix de carnes com Batata-Doce e Arroz",3kg,90.90,86.36,5.0,28.79,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Mix de Carnes,"Mix de carnes com Batata-Doce e Arroz",10.1kg,203.90,193.71,5.0,19.18,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Mix de Carnes,"Mix de carnes com Batata-Doce e Arroz",20kg,386.50,367.18,5.0,18.36,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Mix de Carnes,"Mix de carnes com Batata-Doce e Arroz",Granel,20.90,19.86,5.0,19.86,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Sênior +7,"Frango com Batata-Doce e Arroz",1kg,33.50,31.83,5.0,31.83,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Sênior +7,"Frango com Batata-Doce e Arroz",3kg,93.50,88.83,5.0,29.61,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Sênior +7,"Frango com Batata-Doce e Arroz",10.1kg,183.90,174.71,5.0,17.30,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Sênior +7,"Frango com Batata-Doce e Arroz",Granel,18.90,17.96,5.0,17.96,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Frango,"Frango com Batata-Doce e Arroz",1kg,30.90,29.36,5.0,29.36,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Frango,"Frango com Batata-Doce e Arroz",3kg,85.00,80.75,5.0,26.92,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Frango,"Frango com Batata-Doce e Arroz",10.1kg,180.50,171.48,5.0,16.98,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Frango,"Frango com Batata-Doce e Arroz",20kg,336.90,320.06,5.0,16.00,#8B6F47
+Quatree Select,Gato,Gato Adulto Castrado Frango,"Frango com Batata-Doce e Arroz",Granel,17.90,17.01,5.0,17.01,#8B6F47
+Quatree Select,Gato,Gato Adulto Salmão,"Salmão com Batata-Doce e Arroz",1kg,28.90,27.46,5.0,27.46,#8B6F47
+Quatree Select,Gato,Gato Adulto Salmão,"Salmão com Batata-Doce e Arroz",3kg,82.50,78.38,5.0,26.13,#8B6F47
+Quatree Select,Gato,Gato Adulto Salmão,"Salmão com Batata-Doce e Arroz",10.1kg,160.50,152.48,5.0,15.10,#8B6F47
+Quatree Select,Gato,Gato Adulto Salmão,"Salmão com Batata-Doce e Arroz",Granel,16.90,16.06,5.0,16.06,#8B6F47
